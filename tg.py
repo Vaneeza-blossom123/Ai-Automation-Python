@@ -1,7 +1,7 @@
 import requests
 
-key = "8561674482:AAFZf71l5ZrKOz1HTE04gaii5g5kzjDUpGk"
-chat_id = "7600393647"
+key = "API"
+chat_id = "chat_id"
 
 url = f"https://api.telegram.org/bot{key}/sendMessage"
 
